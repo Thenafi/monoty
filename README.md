@@ -1,5 +1,6 @@
-# Pikachu Everywhere
-This is the code for the extension in [this tutorial](https://blog.shahednasser.com/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu/).
+# Monoty
+It is the code for the extension to reload automatically and send notifications if there is a new message. This chrome extension is disigned explicitly for https://guesty.com. 
+It checks for the number beside the "Inbox" text in the header area. If found any changes, it triggers the notification. 
 
 # Install the extension
 1. Clone or download this repository.
@@ -9,4 +10,4 @@ This is the code for the extension in [this tutorial](https://blog.shahednasser.
 # Credits
 1. Icons from [Free Icons PNG](www.freeiconspng.com)
 2. [Resize Image](https://resizeimage.net/) for resizing icons
-3. Pikachu images [API](https://some-random-api.ml/img/pikachu)
+
